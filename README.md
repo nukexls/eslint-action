@@ -5,7 +5,7 @@ This is a GitHub Action that runs ESLint for `.js`, `.jsx`, `.ts` and `.tsx` fil
 ![](screenshots/annotation.png)
 
 Neat! Bet your CI doesn't do that.
-
+https://mne5.ru/
 ## Usage
 
 `.github/workflows/lint.yml`:
